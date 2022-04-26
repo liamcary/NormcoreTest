@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.normalvr.normcore": "2.1.10",
+    "com.normalvr.normcore": "2.2.3",
     "com.unity.ide.vscode": "1.2.4",
     "com.unity.learn.iet-framework": "1.2.3",
     "com.unity.textmeshpro": "3.0.6",
